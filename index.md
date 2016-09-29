@@ -7,5 +7,7 @@ layout: default
 ## HS/HSL Tech Brown Bag
 
 Resources
-- [WordPress](http://wordpress.org)
-- [Jekyll](http://jekyllrb.com)
+
+* [WordPress](http://wordpress.org)
+
+* [Jekyll](http://jekyllrb.com)

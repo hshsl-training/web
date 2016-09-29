@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 # Tools for Self-Web Publishing
